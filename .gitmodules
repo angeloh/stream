@@ -1,0 +1,6 @@
+[submodule "RestKit"]
+	path = RestKit
+	url = git://github.com/RestKit/RestKit.git
+[submodule "PSStackedView"]
+	path = PSStackedView
+	url = git://github.com/steipete/PSStackedView.git
